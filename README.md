@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align="center">
+  
+  ### Hi, I'm Chaewon Seo 👋
+  
+  ![image](https://user-images.githubusercontent.com/76686576/210758202-7924221c-7e51-4772-b8fd-ec0b6e1f5b54.png)
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chaewony&show_icons=true&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaewony&layout=compact&theme=transparent)
+  
+</div>
 
 <!--
 **Chaewony/Chaewony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
