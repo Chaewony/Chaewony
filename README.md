@@ -2,7 +2,7 @@
   
 ## 🔎 다른 플랫폼에서 *@Chaewony* 의 콘텐츠 보기 🔍
 
-🔗[포트폴리오](https://www.notion.so/Portfolio-public-2ca5ba6e3f4346499e4944f6d0062202) 🔗[블로그](https://n-o-t-e-p-a-d.tistory.com/) <!--🔗[유튜브](https://www.youtube.com/@user-hp3tt3rx6i/featured)-->
+🔗[포트폴리오](https://blue-feels-209.notion.site/Portfolio-2ca5ba6e3f4346499e4944f6d0062202) 🔗[블로그](https://n-o-t-e-p-a-d.tistory.com/) <!--🔗[유튜브](https://www.youtube.com/@user-hp3tt3rx6i/featured)-->
 <br/><br/>
 ## ✨ Skills ✨
 
