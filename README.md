@@ -2,7 +2,7 @@
   
 ## 🔎 다른 플랫폼에서 *@Chaewony* 의 콘텐츠 보기 🔍
 
-🔗[블로그](https://n-o-t-e-p-a-d.tistory.com/) 🔗[유튜브](https://www.youtube.com/@user-hp3tt3rx6i/featured)
+🔗[블로그](https://n-o-t-e-p-a-d.tistory.com/) <!--🔗[유튜브](https://www.youtube.com/@user-hp3tt3rx6i/featured)-->
 <br/><br/>
 ## ✨ Skills ✨
 
